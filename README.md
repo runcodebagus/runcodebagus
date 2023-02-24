@@ -1,7 +1,7 @@
 # Hi there, I'm Bagus - aka [RCB] (https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA) 👋
 ## About me:
 - 🔭 I’m currently working at [Teman Hiling](https://www.temanhiling.com)
-- 🌱 I’m currently learning PHP, Python, Javascript, Dart, Java, and Kotlin.
+- 🌱 I’m currently learning PHP, Python, Dart, Java.
 - 👯 I’m looking to collaborate as FullStack Enginer
 - 🤔 I’m looking for suggest for FullStack Enginer and AI Enginer
 - 💬 Ask me about anything
