@@ -1,4 +1,4 @@
-# Hi there, I'm Bagus - aka [RCB] (https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA) 👋
+# Hi there, I'm Bagus - aka [runcodebagus] (https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA) 👋
 ## About me:
 - 🔭 I’m currently working at [Teman Hiling](https://www.temanhiling.com)
 - 🌱 I’m currently learning PHP, Python, Dart, Java.
