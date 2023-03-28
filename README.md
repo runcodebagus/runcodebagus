@@ -26,12 +26,8 @@
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="30px" src="https://www.php.net//images/logos/new-php-logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JavaScript" width="30px" src="https://www.bing.com/th?id=OIP.BgotsGDf29y10kno47CHOwHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="30px" src="https://www.bing.com/th?id=OIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3&w=154&h=206&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="HTML" width="50px" src="https://www.bing.com/th?id=OIP.bI8KDjd8-nDvzTX_Uok7FwHaHa&w=206&h=206&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Kotlin" width="50px" src="https://www.bing.com/th?id=OIP.D2ppCycgCvm90WV3CNIM-AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="50px" src="https://www.bing.com/th?id=OIP.dJ7A1hPb-BDRBrhOmhrVAgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Dart" width="50px" src="https://www.bing.com/th?id=OIP.PblQquEXxZ6U1BmBNlEprAHaDt&w=200&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:10px;" />][webdev]
+
 <br />
 <br />
 
@@ -41,14 +37,14 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ridhashi99#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ridhashi99#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/runcodebagus#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/runcodebagus#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bagusrifqir#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bagusrifqir/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bagusr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bagusr/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/if_else0#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/if_else0#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/runcodebagus#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/runcodebagus#gh-dark-mode-only)
 
 
 
