@@ -1,9 +1,9 @@
 # Hi there, I'm Bagus - aka [runcodebagus] (https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA) 👋
 ## About me:
 - 🔭 I’m currently working at [Teman Hiling](https://www.temanhiling.com)
-- 🌱 I’m currently learning PHP, Python, Java.
+- 🌱 I’m currently learning PHP, Python, and Java.
 - 👯 I’m looking to collaborate as Web Developer
-- 🤔 I’m looking for suggest for Web Developer and AI Enginer
+- 🤔 I’m looking for suggestions for Web Developer and AI Engineer
 - 💬 Ask me about anything
 - 📫 How to reach me: bagusrr04@gmail.com
 
@@ -15,8 +15,8 @@
    - 2nd place in web design
 
 ## Work Experience:
-#### 1. Interneship [BPBD Brebes](https://bpbd.brebeskab.go.id) | Staff Logistics | Brebes `Juli 2017' - 'Oct 2017`
-   - Create documen Logistic and create a help item report 
+#### 1. Internship [BPBD Brebes](https://bpbd.brebeskab.go.id) | Staff Logistics | Brebes `Juli 2017' - 'Oct 2017`
+   - Create document Logistic and create a help item report 
 #### 2. [CV.Instan Akses](https://instanakses.com) | Student Intern | Purwokerto `2020-2020`
    - Create an archive system project
 ---
