@@ -1,4 +1,4 @@
-# Hi there, I'm Bagus - aka [runcodebagus] (https://www.youtube.com/channel/UCU4zciqWtI9pHBSGQJw6LEA) 👋
+# Hi there, I'm Bagus - aka [runcodebagus]👋
 ## About me:
 
 - 🌱 I’m currently learning PHP, Python, and Java.
