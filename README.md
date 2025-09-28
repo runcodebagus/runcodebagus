@@ -1,3 +1,7 @@
+
+
+<img width="1536" height="1024" alt="Sep 28, 2025, 11_51_30 PM" src="https://github.com/user-attachments/assets/aa28345d-e7b8-438a-8e54-28330139563f" />
+
 # 👋 Hi, I'm Bagus  
 
 🚀 **Tech Lead • AI & Machine Learning Engineer • Web Developer (PHP-first)**  
