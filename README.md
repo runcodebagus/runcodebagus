@@ -51,9 +51,9 @@ Public stats may not reflect my actual activity.*
 
 ## 🌐 Connect with Me  
 
-- 🌍 Portfolio: [yourwebsite.com](#)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](#)  
-- 🐦 Twitter/X: [@yourhandle](#)  
+- 🌍 Portfolio: [https://runcodebagus.my.id](#)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/bagusr/](#)  
+- 🐦 Instagram: [https://www.instagram.com/runcodebagus](#)  
 
 ---
 
